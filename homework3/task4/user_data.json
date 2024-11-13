@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Alice Johnson",
+        "age": 28,
+        "role": "developer"
+    },
+    {
+        "name": "Bob Smith",
+        "age": 35,
+        "role": "manager"
+    },
+    {
+        "name": "Carol Williams",
+        "age": 42,
+        "role": "manager"
+    },
+    {
+        "name": "David Brown",
+        "age": 24,
+        "role": "designer"
+    },
+    {
+        "name": "Emma Davis",
+        "age": 50,
+        "role": "manager"
+    }
+]
